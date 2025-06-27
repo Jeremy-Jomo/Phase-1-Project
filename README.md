@@ -18,10 +18,10 @@ This is a simple weather application built using only **HTML** , **CSS** and **j
 ---
 
 # Tech stack
--**HTML**-Page structure
--**CSS**-Styling and clean layout.
--**Javascript**-API requests and responsive DOM manipulation.
--**Weather API**-[OpenWeatherMap](https://openweathermap.org/current)
+- **HTML**-Page structure
+- **CSS**-Styling and clean layout.
+- **Javascript**-API requests and responsive DOM manipulation.
+- **Weather API**-[OpenWeatherMap](https://openweathermap.org/current)
 
 ## Getting started
 
