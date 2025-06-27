@@ -34,9 +34,9 @@ This is a simple weather application buuilt using only **HTML** , **CSS** and **
 3. Enter your city in the input box.
 
 
-Author
+# Author
 Made by [JeremyKirubi]
 
-License
+# License
 This project is open source and available under the [MIT] ([https://choosealicense.com/licenses/mit/])
 
