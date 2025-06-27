@@ -84,4 +84,15 @@ document.addEventListener("DOMContentLoaded", function() {
         weatherInfo.style.display = "block"; // Show the weather info section
         // console.log(weatherInfo)
     }
+    // add a moushover effect to the weather icon
+    const weatherIcon = document.getElementById("weatherIcon");
+    weatherIcon.addEventListener("mouseover", function() {
+        weatherIcon.style.transform = "scale(1.1)";
+        weatherIcon.style.transition = "transform 0.3s ease";
+    });
+    weatherIcon.addEventListener("mouseout", function() {
+        weatherIcon.style.transform = "scale(1)";
+        weatherIcon.style.transition = "transform 0.3s ease";
+    }
+    );
 });
