@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return response.json();
             })
             .then(data => {
-                console.log(data);
+                // console.log(data);
                 showWeather(data);
 
 
