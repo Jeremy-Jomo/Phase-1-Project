@@ -7,13 +7,13 @@ This is a simple weather application buuilt using only **HTML** , **CSS** and **
 
 # Features
 
--Through entering city name tha application:
+- Through entering city name tha application:
     1. Gets current Tempreature of the city
     2. Gets current Humidity percentage of the city
     3. Gets the wind speed in kilometers per hour for every city.
 
--Through simple search input fetches the data from API
--Clean and responsive design using CSS
+- Through simple search input fetches the data from API
+- Clean and responsive design using CSS
 
 ---
 
