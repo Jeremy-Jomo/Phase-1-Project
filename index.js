@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return response.json();
             })
             .then(data => {
-                // console.log(data);
+                console.log(data);
                 showWeather(data);
 
 
@@ -53,11 +53,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (data.weather[0].main === "Clear") {
         weatherIcon.src = "./images/clear.png";
-        quotes.innerHTML = `<p>That blue up there?Natures default wallpaper.</p>`;
+        quotes.innerHTML = `<p>The vibes? Immaculate. The SPF? Hopefully 50.</p>`;
 
     } else if (data.weather[0].main === "Clouds") {
         weatherIcon.src = "./images/clouds.png";
-        quotes.innerHTML = `<p>Sun's ghosted once again🤷🏻</p>`;
+        quotes.innerHTML = `<p>Sun's ghosted us again🤷</p>`;
     } else if (data.weather[0].main === "Rain") {
         weatherIcon.src = "./images/rain.png";
         quotes.innerHTML = `<p>Sky's throwing a tantrum and we're all invited😂'</p>`;
