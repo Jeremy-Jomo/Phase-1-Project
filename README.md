@@ -1,4 +1,4 @@
-#Simple weather application .
+# Simple weather application .
 
 
 This is a simple weather application buuilt using only **HTML** , **CSS** and **javascript**.This application uses the fetch method to fetch current weather data from a public API and displays the data in a very clean, personalized user interface.
@@ -17,7 +17,7 @@ This is a simple weather application buuilt using only **HTML** , **CSS** and **
 
 ---
 
-#Tech stack
+# Tech stack
 -**HTML**-Page structure
 -**CSS**-Styling and clean layout.
 -**Javascript**-API requests and responsive DOM manipulation.
@@ -35,8 +35,8 @@ This is a simple weather application buuilt using only **HTML** , **CSS** and **
 
 
 Author
-Made by [Jeremy Kirubi]
+Made by [JeremyKirubi]
 
 License
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT] ([https://choosealicense.com/licenses/mit/])
 
